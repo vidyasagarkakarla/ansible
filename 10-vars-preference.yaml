@@ -6,7 +6,7 @@
   - name: PERSON
     prompt: please enter your name
     private: false
-  - nmae: WISHES
+  - name: WISHES
     prompt: please enter yout wishes
     private: false
   vars:
