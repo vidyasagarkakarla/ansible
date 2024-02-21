@@ -1,7 +1,7 @@
 - name: variables from PLAY level
   hosts: localhost
   vars_files:
-  - varaibles.yaml
+  - variables.yaml
   # vars_prompt:
   # - name: PERSON
   #   prompt: please enter your name
