@@ -8,6 +8,8 @@ localhost
 Course= "DevOps from inventory"
 Trainer= "Sivakumar"
 Duration= "110HRS"
+PERSON= "Siva from Inventory"
+WISHES= "Morning from Inventory"
 
 [web]
 54.165.189.41
