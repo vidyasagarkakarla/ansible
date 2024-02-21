@@ -1,0 +1,7 @@
+# PLAY level variables
+- name: Variable from PLAY level
+  hosts: localhost
+  tasks:
+  - name: check variables
+    ansible.builtin.debug:
+      msg: "Hi, I am learning DevOps, Tariner is Sivakumar, Duration is 110HRS"
